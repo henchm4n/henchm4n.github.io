@@ -56,3 +56,4 @@ exclude:
 #   - vendor/ruby/
 
 theme: jekyll-theme-slate
+markdown: GFM
