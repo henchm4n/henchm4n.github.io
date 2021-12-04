@@ -55,5 +55,5 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 markdown: GFM
