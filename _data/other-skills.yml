@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Windows Environments
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Linux/Unix Environments
+  percentage: 85
   color: success
+
+- name: Source Control (Git/Subversion)
+  percentage: 70
+  color: warning
+
+- name: Progress towards OSCP
+  percentage: 50
+  color: dark

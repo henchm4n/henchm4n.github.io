@@ -1,17 +1,61 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University of Queensland
+  from: 2016
+  to: 2021
+  description: Graduated from the University of Queensland in 2021 with a major
+               in Cyber Security. 3rd year commenced at UQ after transferring from
+               Queensland University of Technology. Deans List of Students with
+               Excellent Academic Performance (QUT) in semester 2 of 2017 and
+               semester 1 of 2018.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Support Consultant
+  from: 2021
+  to: 2021
+  description: EventsAIR software support - supporting customers via email, phone calls and screen share.
+               Assisting with HTML and CSS.
+               Assist customers with knowledge of the EventsAIR software.
+               Respond to customer queries in a prompt and professional manner.
+
+- title: Customer Contact Officer - SkyMesh
+  from: 2020
+  to: 2020
+  description: Gather information from customers when they have an issue to either resolve the issue or pass it along to Level 2 support staff.
+               Assist customers to setup their emails on their email client.
+               Assist customers login to the web portal including password changes. 
+               Provide information about satellite and fixed wireless internet to customers.
+               Walk customers through troubleshooting process to determine issue
+
+
+- title: Intern - Infrastructure Delivery (Security) - Sunshine Coast Council
+  from: 2019
+  to: 2020
+  description: Monitor email gateway and management of spam.
+               Maintain an awareness of current virus and malware trends and take proactive action to reduce the risk or virus and malware infiltration.
+               Assist with Senior Security Analysts and management on issues pertaining to information security.
+               Assist with IT security-related matters to ensure they comply with Council policies and practices. e.g. Firewalls, Email gateways and Windows Patching.
+
+
+- title: Retail Sales Assistant - Officeworks
+  from: 2016
+  to: 2019
+  description: Co-ordinate busy copy and print centre.
+               Respond to customer questions and requests in a prompt and efficient manner.
+               Maintain knowledge of current sales and promotions, policies regarding payment/exchanges and security practices.
+               Foster a positive work environment by consistently treating all employees and customers with respect and consideration.
+
+- title: Graduated High School from Brisbane State High School
+  from: 2013
+  to: 2016
+  description: Graduated from Brisbane State High School and attained my Certificate
+               of Education. During high school, the subjects I studied included
+               English, Maths B, Maths C, Physics, Chemistry and Music.
+
+- title: Certificate II in Active Volunteering
+  from: 2015
+  to: 2015
+  description: Aquired during year 11 of High School.
+
+- title: Certificate III in Fitness
+  from: 2014
+  to: 2015
+  description: Aquired this creditation at Fitnance at the end of year 10 at high school
+               during the summer break.

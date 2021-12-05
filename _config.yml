@@ -1,13 +1,14 @@
 ### Site Settings ###
-title               : Calum Henman Blog (Henchm4n)
+title               : Calum Henman's Blog (Henchm4n)
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      A place where I blog about anything I fancy.
+                      Common interests include Security, Hacking,
+                      Hiking and Music :trumpet:.
+
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : henchm4n/henchm4n.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : henchm4n/henchm4n.github.io
-open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -26,7 +27,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Calum Henman
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : /assets/Logo.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : calumhenman7@gmail.com
@@ -35,14 +36,14 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : calum-henman-2003a6140
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -98,3 +99,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - vendor

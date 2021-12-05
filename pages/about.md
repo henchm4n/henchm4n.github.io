@@ -8,7 +8,11 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I have a Bachelor of Computer Science at the University of Queensland, majoring in Cyber Security.
+
+My interests include cyber security, specifically offensive security and detecting network mis-actors, blockchain and programming.
+
+I also like to spend time hiking, running and swimming as well as reading.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
