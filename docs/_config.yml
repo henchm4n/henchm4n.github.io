@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Calum Henman's Blog (Henchm4n)
 description         : >-
-                      A place where I blog about anything I fancy.
-                      Common interests include Security, Hacking,
+                      A place where I post my projects and things that take my fancy.
+                      Interests include Security, Hacking,
                       Hiking and Music :trumpet:.
 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly

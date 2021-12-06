@@ -8,11 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I have a Bachelor of Computer Science at the University of Queensland, majoring in Cyber Security.
 
-My interests include cyber security, specifically offensive security and detecting network mis-actors, blockchain and programming.
+I graduated from the University of Queensland in December 2021 with a Bachelor of Computer Science, majoring in Cyber Security.
 
-I also like to spend time hiking, running and swimming as well as reading.
+My interests include cyber security, specifically offensive security and detecting network mis-actors, blockchain technologies and programming.
+
+In my free time, I like to read as well as hiking, running and swimming.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
