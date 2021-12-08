@@ -11,7 +11,7 @@ Today I will be showing you how to install Metsploitable 2 on VirtualBox.
 
 Metasploitable 2 is a distribution vulnerable by design, and makes it easy to test out different tools and methods.
 
-First I will show you how to download and install Metasploitable 2 as it is very easy to install. First we need to download the Metasploitable 2 files and we can do so from the following website.  [https://sourceforge.net/projects/metasploitable/](https://sourceforge.net/projects/metasploitable/)
+We can download the Metasploitable 2 files from the following website.  [https://sourceforge.net/projects/metasploitable/](https://sourceforge.net/projects/metasploitable/)
 
 ![](/assets/posts/metasploitable-2-on-virtualbox/metasploitable_download.png)
 

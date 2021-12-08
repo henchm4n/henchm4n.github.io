@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Install VMWare Player
-tags: [VMWare Player]
+title: Install VMware Player
+tags: [VMware Player]
 style: fill
 color: secondary
-description: Install VMWare Player on a Computer.
+description: Install VMware Player on a Computer.
 ---
 
 Today, I will be showing you how to install VMware Player onto a computer in a step by step manner. VMware player is a free virtualization software provided by VMware for non-commercial use. This allows you to run multiple operating systems on your computer without needing additional hardware.
