@@ -26,6 +26,6 @@ Using the command cat, we get the password for the next level.
 
 ![](/assets/posts/OverTheWire/Bandit/Bandit0/Level0-3.png)
 
-To continue, Bandit 1 walkthrough will be here. [Bandit 1 Walkthrough]()
+To continue, please read my Bandit 1 walkthrough. {% include elements/button.html link="bandit-level-1" text="Level 1" %}
 
 Thank you for reading. :+1:
