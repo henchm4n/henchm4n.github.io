@@ -99,4 +99,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - vendor
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
