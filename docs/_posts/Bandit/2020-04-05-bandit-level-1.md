@@ -3,6 +3,7 @@ layout: post
 title: "OverTheWire: Bandit Level 1"
 tags: [OverTheWire, Bandit]
 style: fill
+comments: true
 color: success
 description: Walkthrough of Level 1 of OverTheWire Bandit
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Install VMware Player
 tags: [VMware Player]
 style: fill
+comments: true
 color: secondary
 description: Install VMware Player on a Computer.
 ---

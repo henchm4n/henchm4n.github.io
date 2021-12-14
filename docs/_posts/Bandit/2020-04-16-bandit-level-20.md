@@ -3,6 +3,7 @@ layout: post
 title: "OverTheWire: Bandit Level 20"
 tags: [OverTheWire, Bandit]
 style: fill
+comments: true
 color: success
 description: Walkthrough of Level 20 of OverTheWire Bandit
 ---

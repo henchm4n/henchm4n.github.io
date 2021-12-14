@@ -3,6 +3,7 @@ layout: post
 title: Kali Linux on VirtualBox
 tags: [VirtualBox, Kali]
 style: fill
+comments: true
 color: primary
 description: Walkthrough to Install Kali Linux on VirtualBox
 ---

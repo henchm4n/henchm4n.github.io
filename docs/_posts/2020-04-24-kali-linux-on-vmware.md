@@ -3,6 +3,7 @@ layout: post
 title: Kali Linux on VMware Player
 tags: [VMware Player, Kali]
 style: fill
+comments: true
 color: secondary
 description: Walkthrough to Install Kali Linux on VMware Player
 ---

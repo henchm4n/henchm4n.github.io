@@ -4,6 +4,7 @@ title:  "Welcome to My Blog"
 tags: [Update]
 styll: fill
 color: info
+comments: true
 description: Move from Wordpress to GitHub Pages
 ---
 

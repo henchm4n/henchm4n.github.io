@@ -3,6 +3,7 @@ layout: post
 title: Metasploitable 2 on VirtualBox
 tags: [VirtualBox, Metasploitable 2]
 style: fill
+comments: true
 color: warning
 description: Walkthrough of how to install Metasploitable 2 on VirtualBox
 ---

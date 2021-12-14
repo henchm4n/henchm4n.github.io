@@ -3,6 +3,7 @@ layout: post
 title: "OverTheWire: Bandit Level 18"
 tags: [OverTheWire, Bandit]
 style: fill
+comments: true
 color: success
 description: Walkthrough of Level 18 of OverTheWire Bandit
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "OverTheWire: Bandit Level 8"
 tags: [OverTheWire, Bandit]
 style: fill
+comments: true
 color: success
 description: Walkthrough of Level 8 of OverTheWire Bandit
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Metasploitable 2 on VMware Player
 tags: [VMware Player, Metasploitable 2]
 style: fill
+comments: true
 color: warning
 description: Walkthrough of how to install Metasploitable 2 on VMware Player
 ---
