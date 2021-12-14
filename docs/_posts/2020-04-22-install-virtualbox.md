@@ -3,6 +3,7 @@ layout: post
 title: Install VirtualBox
 tags: [VirtualBox]
 style: fill
+comments: true
 color: primary
 description: Install VirtualBox on a Computer.
 ---
